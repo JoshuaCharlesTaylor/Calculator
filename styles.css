@@ -1,0 +1,19 @@
+html, body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+#Display{
+    width: 147px;
+    height: 20px;
+    /*margin-left: 12px;*/
+    border: 1px solid white;
+    background-color: white;
+    text-align: right;
+    margin-bottom: 5px;
+}
+#container{
+    background-color: green;
+    border: 5px solid green;
+}
